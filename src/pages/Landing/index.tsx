@@ -14,7 +14,7 @@ function Landing (){
                 <img src={logoImg} alt="Proff"/>
                 <h2>Sua plataforma de estudos online.</h2>
                </div>
-               <img 
+               <img  
                 src={landingImg} 
                 alt="Plataforma de estudos" 
                 className="hero-image"
